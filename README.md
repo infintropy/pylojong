@@ -1,2 +1,2 @@
 # pylojong
-lojong slogan utility
+[lojong](https://en.wikipedia.org/wiki/Lojong) slogan utility
